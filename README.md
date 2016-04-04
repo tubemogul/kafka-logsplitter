@@ -18,6 +18,6 @@ Build with maven:
 
 Run:
 
-`java -cp kafka-logsplitter-1.0.0-SNAPSHOT.jar com.tubemogul.stats.logsplitter.LogSplitter ~/Desktop/attainment_event-4_bkp`
+`java -jar kafka-logsplitter-1.0.0-SNAPSHOT.jar /kafka/attainment_event-4`
 
 
